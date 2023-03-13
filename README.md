@@ -15,7 +15,6 @@ cd Basic-Linux-Shell
 make
 ```
 
-
 ## Commands
 
 - For **Process based execution**: Simply run the commands, for example
@@ -50,7 +49,6 @@ pwd
 pwd -L
 pwd -P
 ```
-&nbsp;
 
 ### External Commands
 #### **ls**
