@@ -14,6 +14,7 @@ Run the following commands on the terminal
 git clone https://github.com/mohitg66/Basic-Linux-Shell.git
 cd Basic-Linux-Shell
 
+# compile the source
 make
 ```
 
