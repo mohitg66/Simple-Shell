@@ -9,9 +9,11 @@ Implemented **3 internal commands** in addition to **5 external commands** along
 ## Instructions
 Run the following commands on the terminal
 
-```
+```bash
+# clone this repository
 git clone https://github.com/mohitg66/Basic-Linux-Shell.git
 cd Basic-Linux-Shell
+
 make
 ```
 
