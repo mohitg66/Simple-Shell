@@ -26,9 +26,9 @@ make
 ## Commands
 
 - For **Process based execution**: Simply run the commands, for example
-<!-- ``` -->
-`ls -a`
-<!-- ``` -->
+```
+ls -a
+```
 
 - For **Thread based execution**: Add  `&t` before the command, for example
 ```
