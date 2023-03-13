@@ -89,7 +89,7 @@ mkdir -p
 ```
 
 
-### Assumptions
+## Assumptions
 - command line options other than the ones mentioned are invalid
 -  `echo` no use of $
 - `ls` works only for the current working directory, no path to be given
