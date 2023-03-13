@@ -8,7 +8,7 @@ Implemented **3 internal commands** in addition to **5 external commands** along
 
 ## Tech Stack
 
-<img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917"> <img height="60px" src="https://cdn.svgporn.com/logos/linux-tux.svg"> <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png?20221007043523"> <img height="60px" src="https://logos-world.net/wp-content/uploads/2022/03/VMware-Logo-700x394.png">
+<img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/570px-C_Programming_Language.svg.png?20201031132917">&nbsp; <img height="60px" src="https://cdn.svgporn.com/logos/linux-tux.svg">&nbsp; <img height="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Archlinux-icon-crystal-64.svg/120px-Archlinux-icon-crystal-64.svg.png?20221007043523">&nbsp; <img height="60px" src="https://logos-world.net/wp-content/uploads/2022/03/VMware-Logo-700x394.png">
 
  
 ## Instructions
