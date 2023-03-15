@@ -5,6 +5,8 @@ A basic linux shell designed and developed using **standard C libraries** and li
 
 Implemented **3 internal commands** in addition to **5 external commands** along with some command line options for each. Some corner cases have also been handled for each of them.
 
+<img src="homepage.png" width="80%">
+
 
 ## Tech Stack
 
